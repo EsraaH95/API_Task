@@ -1,0 +1,5 @@
+{
+    "name": "BadRequest",
+    "message": "Invalid Parameters",
+    "errors": "'price' should be multiple of 0.01"
+  }
